@@ -1,0 +1,11 @@
+<html>
+ <body>
+ 
+  <p id="myid">Hello world!</p>
+ 
+  <script>
+   console.log(document.getElementById("myid"));
+  </script>
+ 
+ </body>
+</html>
